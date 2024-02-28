@@ -23,8 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshan012&" alt="Dilshan012" /></p>
 
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Dilshan012" />
-</div>
+
 
