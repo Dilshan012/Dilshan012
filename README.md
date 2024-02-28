@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Dilshan Bandara</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan012" alt="dilshan012" /></a> </p>
