@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan Bandara</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile...!;I'am+an+undergraduate" alt="Typing SVG" /></a>
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dilshan012" alt="Dilshan012" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
