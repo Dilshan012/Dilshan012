@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dilshan</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Dilshan Bandara</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile...!;I'am+an+undergraduate" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan012" alt="dilshan012" /></a> </p>
 
@@ -21,7 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshan012&show_icons=true&locale=en" alt="dilshan012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" /></p>
+
 <p align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="elanza-48" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="Dilshan012" />
 </p>
