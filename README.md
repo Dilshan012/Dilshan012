@@ -98,11 +98,8 @@
 
 <div align="center">
   <span >
-    <img src="https://github-readme-stats.vercel.app/api?username=Dilshan012&show_icons=true&locale=en" alt="dilshan012" width="400" height="400"/>
-  </span>
-  
-  <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" width="400" height="410"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dilshan012&show_icons=true&locale=en" alt="dilshan012" width="480" height="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" width="500" height="400"/>
   </span>
 </div>
 
