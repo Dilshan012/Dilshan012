@@ -9,16 +9,6 @@
 </div>
 
 <div align="center">
-  <span >
-    <img src="https://github-readme-stats.vercel.app/api?username=Dilshan012&show_icons=true&locale=en" alt="dilshan012" />
-  </span>
-  
-  <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" />
-  </span>
-</div>
-
-<div align="center">
   <h2>Languages and Tools</h2>
   
   <span align="center">
@@ -105,6 +95,17 @@
                 src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
                 alt="selenium" width="40" height="40" /> </a></p>
 </div>
+
+<div align="center">
+  <span >
+    <img src="https://github-readme-stats.vercel.app/api?username=Dilshan012&show_icons=true&locale=en" alt="dilshan012" width="400" height="400"/>
+  </span>
+  
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" width="400" height="410"/>
+  </span>
+</div>
+
 
 <div align="center">
   <span style="float: inline-start;">
