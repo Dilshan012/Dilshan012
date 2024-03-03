@@ -10,8 +10,10 @@
 
 <div align="center">
   <span >
-    <img src="https://github-readme-stats.vercel.app/api?username=Dilshan012&show_icons=true&locale=en" alt="dilshan012" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dilshan012&show_icons=true&locale=en" alt="dilshan012" width=400/>
+  </span>
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan012&" alt="dilshan012" width=422/>
   </span>
 </div>
 
