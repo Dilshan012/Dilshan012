@@ -18,12 +18,6 @@
   </span>
 </div>
 
-<!-- For PROFILE VIEWS COUNTER -->
-<div id="header" align="center">
-        <br/>
-  <img src="https://komarev.com/ghpvc/?username=Dilshan012&style=for-the-badge&color=orange" alt="Profile Views"/>
-</div>
-
 <div align="center">
   <h2>Languages and Tools</h2>
   
@@ -122,6 +116,12 @@
     <h2 span style="float: inline-start;">Support:</h2>
     <a href="https://www.buymeacoffee.com/dilshan012"> <img style="padding: 10px 0px 0px 15px;" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dilshan012"/></a>
   </span>
+</div>
+
+<!-- For PROFILE VIEWS COUNTER -->
+<div id="header" align="center">
+        <br/>
+  <img src="https://komarev.com/ghpvc/?username=Dilshan012&style=for-the-badge&color=orange" alt="Profile Views"/>
 </div>
 
 <div align="center">
