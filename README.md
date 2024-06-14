@@ -20,7 +20,8 @@
 
 <!-- For PROFILE VIEWS COUNTER -->
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dilshan012&style=for-the-badge&color=orange" alt=""/>
+        <br/>
+  <img src="https://komarev.com/ghpvc/?username=Dilshan012&style=for-the-badge&color=orange" alt="Profile Views"/>
 </div>
 
 <div align="center">
