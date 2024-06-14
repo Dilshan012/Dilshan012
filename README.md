@@ -18,6 +18,11 @@
   </span>
 </div>
 
+<!-- For PROFILE VIEWS COUNTER -->
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dilshan012&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <div align="center">
   <h2>Languages and Tools</h2>
   
